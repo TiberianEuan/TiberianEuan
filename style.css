@@ -6,9 +6,9 @@ body {
 }
 
 h1 {
-    font-size: 70%;
     text-align: center;
-    align-self: center;
+    align-content: center;
+    width: 60%;
     outline-color: rgb(26, 72, 47);
     color: mediumspringgreen
 }
