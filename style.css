@@ -1,1 +1,14 @@
-/* this is a cupholder*
+/* this is a cupholder*/
+
+body {
+    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*ujYEKh1id0u18wPv5d61OA.gif);
+    background-repeat: repeat;
+}
+
+h1 {
+    font-size: 70%;
+    text-align: center;
+    align-self: center;
+    outline-color: rgb(26, 72, 47);
+    color: mediumspringgreen
+}
