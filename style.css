@@ -1,13 +1,16 @@
 /* this is a cupholder*/
 
 body {
-    background-image: url("https://miro.medium.com/v2/resize:fit:1400/1*ujYEKh1id0u18wPv5d61OA.gif");
+    background-image: url("assets/spes.gif");
 }
 
 h1 {
+    font-size: 70%;
     text-align: center;
     align-content: center;
-    width: 60%;
+    width: 100%;
     outline-color: rgb(26, 72, 47);
     color: mediumspringgreen;
+    font-weight: bolder;
+    background
 }
