@@ -1,8 +1,7 @@
 /* this is a cupholder*/
 
 body {
-    background-image: url(https://miro.medium.com/v2/resize:fit:1400/1*ujYEKh1id0u18wPv5d61OA.gif);
-    background-repeat: repeat;
+    background-image: url("https://miro.medium.com/v2/resize:fit:1400/1*ujYEKh1id0u18wPv5d61OA.gif");
 }
 
 h1 {
@@ -10,5 +9,5 @@ h1 {
     align-content: center;
     width: 60%;
     outline-color: rgb(26, 72, 47);
-    color: mediumspringgreen
+    color: mediumspringgreen;
 }
