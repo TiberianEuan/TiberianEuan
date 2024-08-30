@@ -1,16 +1,23 @@
 /* this is a cupholder*/
 
-body {
+body.background {
     background-image: url("assets/spes.gif");
+    
+}
+
+.contain {
+    backdrop-filter:blur(0.1);
+    backdrop-filter:contrast(0.1);
+    border-radius: 10px;
 }
 
 h1 {
-    font-size: 70%;
+    font-size: 7vw;
     text-align: center;
     align-content: center;
-    width: 100%;
+    min-width: 25%;
     outline-color: rgb(26, 72, 47);
+    outline-width: 20px;
     color: mediumspringgreen;
-    font-weight: bolder;
-    background
+    font-weight: bold;
 }
