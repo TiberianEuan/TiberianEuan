@@ -16,7 +16,7 @@ h1 {
     font-weight: bold;
     display: inline-block;
     background-color: rgba(200,200,200,0.5);
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 p {
@@ -28,4 +28,5 @@ p {
     font-weight: bold;
     display: inline-block;
     background-color: rgba(200,200,200,0.5);
+    border-radius: 15px;
 }
