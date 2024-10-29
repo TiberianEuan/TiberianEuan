@@ -14,9 +14,8 @@ h1 {
     outline-width: 20px;
     color: mediumspringgreen;
     font-weight: bold;
-    backdrop-filter:blur(0.1);
-    backdrop-filter:contrast(0.1);
-    border-radius: 10px;
+    display: inline-block;
+    background-color: white;
 }
 
 p {
@@ -24,7 +23,6 @@ p {
     outline-width: 20px;
     color: mediumspringgreen;
     font-weight: bold;
-    backdrop-filter:blur(0.1);
-    backdrop-filter:contrast(0.1);
-    border-radius: 10px;
+    display: inline-block;
+    background-color: white;
 }
