@@ -21,3 +21,13 @@ h1 {
     color: mediumspringgreen;
     font-weight: bold;
 }
+
+body {
+    text-align: center;
+    align-content: center;
+    min-width: 25%;
+    outline-color: rgb(26, 72, 47);
+    outline-width: 20px;
+    color: mediumspringgreen;
+    font-weight: bold;
+}
