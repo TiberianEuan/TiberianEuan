@@ -5,12 +5,6 @@ body.background {
     
 }
 
-.contain {
-    backdrop-filter:blur(0.1);
-    backdrop-filter:contrast(0.1);
-    border-radius: 10px;
-}
-
 h1 {
     font-size: 7vw;
     text-align: center;
@@ -20,6 +14,9 @@ h1 {
     outline-width: 20px;
     color: mediumspringgreen;
     font-weight: bold;
+    backdrop-filter:blur(0.1);
+    backdrop-filter:contrast(0.1);
+    border-radius: 10px;
 }
 
 p {
@@ -27,4 +24,7 @@ p {
     outline-width: 20px;
     color: mediumspringgreen;
     font-weight: bold;
+    backdrop-filter:blur(0.1);
+    backdrop-filter:contrast(0.1);
+    border-radius: 10px;
 }
