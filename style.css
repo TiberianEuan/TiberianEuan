@@ -4,7 +4,7 @@ body.background {
     background-image: url("assets/spes.gif");   
 }
 
-body {
+.bgcontraster {
     display: inline-block;
     background-color: rgba(200,200,200,0.5);
     border-radius: 15px;
