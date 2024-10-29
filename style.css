@@ -15,14 +15,16 @@ h1 {
     color: mediumspringgreen;
     font-weight: bold;
     display: inline-block;
-    background-color: white;
+    background-color: rgba(200,200,200,0.5);
 }
 
 p {
+    text-align: center;
+    align-content: center;
     outline-color: rgb(26, 72, 47);
     outline-width: 20px;
     color: mediumspringgreen;
     font-weight: bold;
     display: inline-block;
-    background-color: white;
+    background-color: rgba(200,200,200,0.5);
 }
